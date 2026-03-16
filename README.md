@@ -7,7 +7,6 @@ without any hardcoded rules.
 ## Results
 - Best fitness achieved: 320,000+
 - Highest score in a single run: 57,000+ pipes
-- Trained on a Dell Latitude E6430 with 4GB RAM running Zorin OS Lite
 
 ## How it works
 Each bird has a neural network brain with 5 inputs:
